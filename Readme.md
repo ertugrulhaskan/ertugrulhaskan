@@ -1,8 +1,4 @@
-# Hi there, I'm Ertugrul Alex! 🖖
-
-### I'm a <a href="https://ertugrul.me/resume" target="_blank">Front End Developer</a>.
-
-<br>
+# Hi there, I'm <a href="https://ertugrul.me/resume" target="_blank">Ertugrul Alex</a> 🖖
 
 ### <strong>Fundamental</strong>
 
